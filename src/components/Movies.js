@@ -13,6 +13,7 @@ const Movies = (props) => {
             img={movie.image}
             rating={movie.rating}
             name={movie.name}
+            year={movie.year}
             />
     ))}</div>
         )

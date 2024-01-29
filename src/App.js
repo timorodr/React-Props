@@ -28,13 +28,13 @@ function App() {
       name: "12 Angry Men",
       year: 1957,
       rating: 8.9,
-      image: "https://image.tmdb.org/t/p/w500/35h5o5o5Y5o545545545554555455545554555455545554555455545.jpg"
+      image: "https://upload.wikimedia.org/wikipedia/commons/b/b5/12_Angry_Men_%281957_film_poster%29.jpg"
     },
     {
       name: "Schindler's List",
       year: 1993,
       rating: 8.9,
-      image: "https://image.tmdb.org/t/p/w500/sF1U4EUQS8YHUYf5m5539Y06Y5I.jpg"
+      image: "https://m.media-amazon.com/images/M/MV5BNDE4OTMxMTctNmRhYy00NWE2LTg3YzItYTk3M2UwOTU5Njg4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg"
     }
   ];
 
